@@ -1,0 +1,23 @@
+{
+  "name": "websecurity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wokayme/neverTrustUserWebSecurity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wokayme/neverTrustUserWebSecurity/issues"
+  },
+  "homepage": "https://github.com/wokayme/neverTrustUserWebSecurity#readme"
+}
